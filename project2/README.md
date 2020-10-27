@@ -4,4 +4,4 @@ Endpoint url: http://udagram-instagram-project-dev.us-west-2.elasticbeanstalk.co
 
 ### Deployment Screenshot
 
-![](https://ibb.co/rQgxrKz)
+![](https://i.ibb.co/dfSPYsV/DEPLOYMENT-SCREENSHOT.png)
